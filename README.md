@@ -1,6 +1,10 @@
 # ShyftScripts
 This repository contains various scripts for the Shyft Network.
 
+### general installation
+1. `$ npm install`
+2. run scripts based on **usage** (below)
+
 ## usage [ Shyft v2 Token Upgrade process ]
 1. modify .env file (use .envStructure as a basis for the fields).
 2. choose **either** a local rpc provider ("ETH_PROVIDER_URL") **or** leave this blank and enter the appropriate Ethereum Network Infura api key ("INFURA_API_KEY")
