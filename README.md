@@ -15,7 +15,8 @@ This repository contains various scripts for the Shyft Network.
 ### notes on Gas Price
 gas price is is defined in WEI
 online conversion utility at: https://eth-converter.com/
-and here's a website that you can find the *current* gas prices, to enter into the environment
+
+here's a website that you can find the *current* gas prices, to enter into the environment
 variable file: https://etherscan.io/gastracker
 
 
