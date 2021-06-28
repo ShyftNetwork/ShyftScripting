@@ -1,7 +1,7 @@
 # ShyftScripts
 This repository contains various scripts for the Shyft Network.
 
-## usage
+## usage [ Shyft v2 Token Upgrade process ]
 1. modify .env file (use .envStructure as a basis for the fields).
 2. choose **either** a local rpc provider ("ETH_PROVIDER_URL") **or** leave this blank and enter the appropriate Ethereum Network Infura api key ("INFURA_API_KEY")
 3. input your private key "ASSET_PRIVATE_KEY" that you'd like to upgrade the tokens from v1 to v2 with.
