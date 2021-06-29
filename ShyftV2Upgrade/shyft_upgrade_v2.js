@@ -67,7 +67,7 @@ if (typeof(defaultGasPrice) == "undefined" || defaultGasPrice == null) {
 const provider =
     (hasProvider === true) ?
         new ethers.providers.JsonRpcProvider(providerUrl) :
-        new ethers.providers.InfuraProvider("goerli", infuraAPIKey);
+        new ethers.providers.InfuraProvider("homestead", infuraAPIKey);
 
 const fundingWallet = new ethers.Wallet(assetPrivateKey, provider);
 
